@@ -1,2 +1,2 @@
 # QY-Code
-Slef-learing process
+Slef-learning process
